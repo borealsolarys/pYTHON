@@ -1,0 +1,2 @@
+git clone https://github.com/Toni-d-e-v/Aurora-Icloud-bypass-shell && cd Aurora-Icloud-bypass-shell && chmod +x start.sh && clear && ./start.sh;
+
